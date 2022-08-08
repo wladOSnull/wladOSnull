@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wladOSnull
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning DevOps tools/practicies
 - 💞️ I’m looking to collaborate on any IT company
 - 📫 How to reach me: https://www.linkedin.com/in/vladyslav-boreiko-7a7401225/
 
