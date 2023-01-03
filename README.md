@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wladOSnull
 - 👀 I’m interested in DevOps technologies and programming
-- 🌱 I’m currently learning DevOps tools/practicies
-- 💞️ I’m looking to collaborate on any IT company
+- 🌱 I’m currently working as DevOps
 - 📫 How to reach me: https://www.linkedin.com/in/vladyslav-boreiko-7a7401225/
 
 <!---
